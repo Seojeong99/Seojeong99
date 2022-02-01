@@ -25,16 +25,19 @@
   
 <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Pyton-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-Android-success?style=flat-square&logo=Android&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-Android-success?style=flat-square&logo=Android&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=Opencv&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 
  ## Representive project:punch:

@@ -1,17 +1,27 @@
 <!--<div align="center">-->
   
   ## Hi there, I'm Seojeong:tulip:
+  
+   
+   Name : seojeongLee
+   
+   Age : 24 
+   
+   Univ. : Kangwon National University
+   
+   Major : Computer Science
  
+  ## How to reach me:smile:
   
    [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seojeong991215@gmail.com)](mailto:seojeong991215@gmail.com)
   [![Instagram Badge](http://img.shields.io/badge/-Instagram%20-purple?style=flat-square&logo=Instagram&link=https://www.instagram.com/seo_j_s2/)](https://www.instagram.com/seo_j_s2/)
    [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/pinkberry99/)](https://blog.naver.com/pinkberry99)
-
-   I’m now majoring in Computer Science
   
-   I'm interested in Deep-learning
   
-  ## :fire:Languages and Tools:fire:
+  
+  ## Languages and Tools:fire:
+  
+  Techs that I've used at least once
   
 <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Pyton-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -26,6 +36,14 @@
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
+
+ ## Representive project:punch:
+ 
+ -How to improve the accuracy of machine translation of newly coined words using online language dictionary
+ 
+ -Implementation of an image deep learning model for motorcycle detection
+ 
+ -Hancom Office document recognizer with high accuracy using Tesseract-OCR
 
 <!--
 **Seojeong99/Seojeong99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

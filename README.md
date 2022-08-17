@@ -7,7 +7,7 @@
    
    Name : seojeongLee
    
-   Age : 24 
+   Age : 24
    
    Univ. : Kangwon National University
    

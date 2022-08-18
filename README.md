@@ -20,7 +20,6 @@
    [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/pinkberry99/)](https://blog.naver.com/pinkberry99)
   
   
-  
   ## Languages and Tools:fire:
   
   Techs that I've used at least once

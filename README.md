@@ -17,7 +17,7 @@
   
    [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seojeong991215@gmail.com)](mailto:seojeong991215@gmail.com)
   [![Instagram Badge](http://img.shields.io/badge/-Instagram%20-purple?style=flat-square&logo=Instagram&link=https://www.instagram.com/seo_j_s2/)](https://www.instagram.com/seo_j_s2/)
-   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=[https://sproutedpotato.tistory.com/](https://sproutedpotato.tistory.com/))]
+   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sproutedpotato.tistory.com/)](https://sproutedpotato.tistory.com/)
   
   
   ## Languages and Tools:fire:

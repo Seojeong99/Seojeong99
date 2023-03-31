@@ -7,9 +7,8 @@
    
    Name : seojeongLee
    
-   Age : 24
+   Age : 25
    
-   Univ. : Kangwon National University
    
    Major : Computer Science
  
